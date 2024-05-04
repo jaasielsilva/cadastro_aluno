@@ -29,6 +29,3 @@ Fornece informações sobre o projeto, como versão, autor, e qualquer outra inf
 
 ### Sair
 Encerra a execução do programa.
-
-## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
