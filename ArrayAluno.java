@@ -1,10 +1,6 @@
-
 import java.util.List;
 import java.util.ArrayList;
-/**
- *
- * @author flavio
- */
+
 public class ArrayAluno implements Interface {
     
     private List<Aluno> alunos;
