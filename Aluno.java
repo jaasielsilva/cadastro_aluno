@@ -1,7 +1,3 @@
-/**
- *
- * @author flavio
- */
 public class Aluno {
     
     private String rgm;
