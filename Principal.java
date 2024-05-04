@@ -37,7 +37,7 @@ public class Principal {
                 }
                 case 4 -> { 
                    // dados do projeto
-                   JOptionPane.showMessageDialog(null,"Dados do Projeto:\nv0.0.1\nAlunos: Fulano, RGM: 123456789");
+                   JOptionPane.showMessageDialog(null,"Dados do Projeto:\nVersão0.0.1");
                 }
                 case 5 -> {
                     return; // sair
